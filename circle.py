@@ -1,4 +1,6 @@
-'''
+''' Henry Chan Given the following simple program to calculate area of a circle: '''
+
+
 filename: circleArea.py             
                                                      
 This program asks the user to input a               
